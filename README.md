@@ -4,7 +4,7 @@ Learn about different countries while testing your memory at the same time.
 
 **Link to project:** https://destinations.netlify.app/
 
-![alt tag]()
+![alt tag](https://github.com/MikeJakuszewski/Travel-Memory-Game/blob/main/Travel-Gif.gif)
 
 ## How It's Made:
 
